@@ -183,4 +183,20 @@ main {
     .storage-container .bubble span {
         font-size: 14px;
     }
+    .fylo-container {
+        width: 360px;
+        padding: 50px;
+    }
+    .fylo img {
+        width: 160px;
+    }
+    .icons-container {
+        display: flex;
+        width: 180px;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .icons-container img {
+        height: 46px;
+    }
 }
